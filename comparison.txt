@@ -1,0 +1,17 @@
+Time taken to search through 12131 files. compared with the top 4 programs found in results for google search "find duplicate files". (only including programs that use Byte-To-Byte comparisons)
+
+Acute Finder
+Time Taken: 4m 06s
+
+Reasonable NoClone 4 (Home edition)
+Time Taken: 1m 53s
+
+Duplicate File Finder
+Time Taken: 1m 41s
+
+Duplicate Finder v3.2
+Time Taken: 1m 28s
+
+My program:
+DupFind v2 (compiled)
+Time Taken: 8s
