@@ -1,0 +1,172 @@
+[Root]
+Most Recent Package=DupFind_v2_beta_Install
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Documents and Settings\Paul\Desktop
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\WINDOWS\system32\shlwapi.dll=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+C:\Documents and Settings\Paul\Desktop\DupFind.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\shlwapi.dll=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+C:\Documents and Settings\Paul\Desktop\DupFind.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\shlwapi.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=DupFind.CAB
+DepCabRun=DupFind.INF
+DepCabURL=flexitun.co.uk
+
+[Package|Dep File 1|Package]
+PackageFolder=C:\Documents and Settings\Paul\Desktop
+ProjectFolder=C:\Documents and Settings\Paul\Desktop\Work\file 4
+ServerSideCab=
+File1=C:\Documents and Settings\Paul\Desktop\DupFind.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|DupFind_v2_beta_Install|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Paul\Desktop
+
+[Package|DupFind_v2_beta_Install|Configure DAO ISAMs]
+Applicable=No
+
+[Package|DupFind_v2_beta_Install|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DupFind_v2_beta_Install|Files Found]
+
+[Package|DupFind_v2_beta_Install|Files Released]
+
+[Package|DupFind_v2_beta_Install|Missing Dependency Information]
+C:\WINDOWS\system32\shlwapi.dll=
+
+[Package|DupFind_v2_beta_Install|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|DupFind_v2_beta_Install|Files Added]
+
+[Package|DupFind_v2_beta_Install|Files Removed]
+
+[Package|DupFind_v2_beta_Install|Files In Project]
+C:\Documents and Settings\Paul\Desktop\DupFind.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\shlwapi.dll=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|DupFind_v2_beta_Install|Configure Registry Files]
+Applicable=No
+
+[Package|DupFind_v2_beta_Install|Configure Remote Servers]
+Applicable=No
+
+[Package|DupFind_v2_beta_Install|Install Locations]
+C:\Documents and Settings\Paul\Desktop\DupFind.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\shlwapi.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|DupFind_v2_beta_Install|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Paul\Desktop\DupFind.exe=No
+
+[Package|DupFind_v2_beta_Install|Distribution]
+Type=single
+Size=
+Title=DupFind v2
+
+[Package|DupFind_v2_beta_Install|Package]
+PackageFolder=C:\Documents and Settings\Paul\Desktop
+ProjectFolder=C:\Documents and Settings\Paul\Desktop\Work\file 4
+ServerSideCab=
+File1=C:\Documents and Settings\Paul\Desktop\setup.exe
+File2=C:\Documents and Settings\Paul\Desktop\Setup.Lst
+File3=C:\Documents and Settings\Paul\Desktop\DupFind.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|DupFind_v2_beta_Install|IconGroups]
+Group0=Flexitun Software
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|DupFind_v2_beta_Install|Flexitun Software]
+Icon1=DupFind.exe
+Title1=DupFind v2 (beta)
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=ST6UNST.EXE
+Title2=Uninstall
+StartIn2=$(AppPath)
+Key2=Icon5
